@@ -1,5 +1,4 @@
 # uranus-js
-This is the first software of lunas.
 
 Integrated CliiJS and LiquidJS into uranus-js.
 
